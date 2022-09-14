@@ -1,0 +1,3 @@
+[submodule "src/modules/RichTextEditor"]
+	path = src/modules/RichTextEditor
+	url = https://github.com/rsdte/RichTextEditor.git
